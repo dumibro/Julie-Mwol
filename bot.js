@@ -161,7 +161,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*🐱‍🏍KING DUMIYA Bot Started*''\n\n king dumiyah owner number is here\n\n wa.me/94781307901 \n\n nice day bro', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🍁KING DUMIYA Bot Started🍁*', MessageType.text);
                 }
             }
             else {
@@ -183,7 +183,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*🐱‍🏍KING DUMIYA Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🍁KING DUMIYA Bot Started🍁*', MessageType.text);
                 }
 
             }
@@ -209,7 +209,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*🐱‍🏍KING DUMIYA Bot Started*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*🍁KING DUMIYA Bot Started🍁*', MessageType.text);
                 }
             }
             else {
@@ -232,7 +232,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*🐱‍🏍KING DUMIYA Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🍁KING DUMIYA Bot Started🍁*', MessageType.text);
                 }
             }
         }
@@ -391,7 +391,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*KING DUMIYA*' +
-                                    '\n\n*💢 ' + error + '*\n\n```Report errors\n\nconatac\nme\non\n\nwa.me/94781307901``` ' 
+                                    '\n\n*💢 ' + error + '*\n\n```Report errors\n contacme wa.me/94781307901``` ' 
                                     , MessageType.text);
                             }
                         }
